@@ -1,7 +1,7 @@
 # Antismash-Pipeline
 Pipeline to find secondary metabolites from antismash in your sequences
 
-Authors: Matt Loffredo
+Author: Matt Loffredo
 
 This tool is designed for the user to input a list of accession numbers, which will processed via antismash and output a csv of sencondary metabolites found in the sequences.
 
