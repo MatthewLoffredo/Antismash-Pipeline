@@ -1,0 +1,4 @@
+antismash_output/
+sequences/
+AntismashResults.csv
+__pycache__
